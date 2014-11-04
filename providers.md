@@ -17,7 +17,12 @@
 * [GoDaddy](https://www.godaddy.com/web-host?ci=92278)
 * [Dreamhost](http://www.dreamhost.com/)
 * [Hetzner](http://www.hetzner.de/en/)
-
+* [100tb](http://www.100tb.com/)
+* [Site5](http://www.site5.com/hosting/cloud/)
+* [SiteGround](http://www.siteground.com/index.htm)
+* [WestHost](http://www.westhost.com/)
+* [SingleHop](http://www.singlehop.com/cloud-hosting/private-cloud/)
+* [VPSnet](http://vps.net/)
 
 #### Package Hosting
 * [Package Cloud](https://packagecloud.io/)
